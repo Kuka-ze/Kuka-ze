@@ -6,4 +6,4 @@
 
 ## 汇总 ✨
 
-[![ShuaiZe's github stats](https://github-readme-stats.vercel.app/api?username=S2265681&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ShuaiZe's github stats](https://github-readme-stats.vercel.app/api?username=Kuka-ze&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
